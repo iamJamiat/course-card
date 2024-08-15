@@ -1,0 +1,79 @@
+*,** { 
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(255, 239, 10);
+}
+
+.wholeContainer {
+    justify-content: center;
+    display: flex;
+    margin: 5px;
+    padding: 40px;
+}
+
+#error {
+    width: 23vw;
+    height: 30vh;
+    border-radius: 10px;
+}
+
+button {
+    background-color:rgb(255, 239, 10);
+    border: none;
+    padding: 10px 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.publish p, .css p, .jamJam p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.publish h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 700; 
+}
+
+.container {
+    width: 20rem;
+    height: 30rem;
+    background-color: white;
+    padding: 18px;
+    border-radius: 10px;
+    border-bottom: 8px solid black;
+    border-right: 8px solid black;
+   border-radius: 20px;
+}
+
+.publish {
+    margin-top: 2rem;
+}
+
+#jamiat {
+    width: 2.5vw;
+    height: 5vh;
+    border-radius: 300px;
+    padding: 5px;
+}
+.jamJam {
+    display: flex;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 900;
+
+}
+
+.css p {
+    color: rgb(86, 83, 83);
+}
